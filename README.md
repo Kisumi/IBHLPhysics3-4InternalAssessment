@@ -1,3 +1,6 @@
+# IB HL Physics 3-4: Internal Assessment
+## Elaine Yang
+
 >>> This is where I have compiled the source code for calculating stars' quantitative values of temperature and luminosity.
 >>> To compile a java source code, type into the command line:
     $ javac [name of source code].java
