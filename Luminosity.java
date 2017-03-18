@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.PrintWriter;
 
 class Luminosity {
-	static int I = 1, II = 2, III = 3, IV = 4, V = 5, VI = 6, VII = 7; //pre-calculated values that correspond to the luminosity class
+	static int I = 868151, II = 125819, III = 18235, IV = 2642, V = 383, VI = 55, VII = 8; //pre-calculated values that correspond to the luminosity class
 
 	public static void main(String[] args) {
 		int valueOfLum = 0;
